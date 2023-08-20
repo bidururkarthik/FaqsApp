@@ -1,0 +1,27 @@
+/* Write your code here. */
+.list_container {
+  list-style: none;
+  background-color: transparent;
+  border-color: #52606d;
+  border-width: 1px;
+  border-style: solid;
+  border-radius: 6px;
+  padding: 7px;
+  margin-bottom: 12px;
+}
+
+.question_container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.opertor_button {
+  background-color: transparent;
+  border-width: 0px;
+  margin-left: 20px;
+}
+
+.opertor_size {
+  height: 20px;
+  width: 20px;
+}
